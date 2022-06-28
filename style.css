@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+}
+.heading_1{
+    text-align: center;
+}
+.login_form{
+    margin-top: 50px;
+}
+.user_input{
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction_area{
+    display: none;
+    margin-top: 30px;
+}
+.transaction_form{
+    margin-top: 60px !important;
+}
+.deposit{
+    background: slateblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.withdraw{
+    background: lightsalmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.balance{
+    background: orange;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
